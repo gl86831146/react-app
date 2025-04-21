@@ -1,7 +1,6 @@
 name: React CI/CD
 on:
   push:
-    branches: [ main ]
 
 jobs:
   build-and-push:
